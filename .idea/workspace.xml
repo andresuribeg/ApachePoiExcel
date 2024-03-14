@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10779015-a92d-4112-99a0-55fb47c18f91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lectura/ExcelLecturaTabla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Datos.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Datos.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lectura/ExcelLecturaColumna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectura/ExcelLecturaColumna.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Lectura/ExcelLecturaFila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lectura/ExcelLecturaFila.java" afterDir="false" />
     </list>
@@ -29,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/Lectura/ExcelLecturaColumna.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/Lectura/ExcelLecturaFila.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Lectura/ExcelLecturaTabla.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,6 +38,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2de3ZSJSo28Gjr6tFXzxwk4R81M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,16 +49,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExcelLecturaFila.executor": "Run",
+    "Application.ExcelLecturaTabla.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Proyectos/ApachePoiExcel",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExcelLecturaFila">
+  <component name="RunManager">
     <configuration name="ExcelLecturaColumna" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lectura.ExcelLecturaColumna" />
       <module name="ApachePoiExcel" />
@@ -86,6 +98,14 @@
         <item itemvalue="Application.ExcelLecturaColumna" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-azul-17.0.10-f644763e9732-59acb15f" />
+        <option value="jdk-21.0.2-azul-21.0.2-4caba194b151-38275579" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

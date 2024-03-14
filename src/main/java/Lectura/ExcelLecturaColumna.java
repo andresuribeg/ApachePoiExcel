@@ -27,6 +27,8 @@ public class ExcelLecturaColumna {
                 System.out.println(columna.getStringCellValue());
 
             }
+            input.close();
+            libro.close();
 
         } catch (Exception e) {
             throw new RuntimeException(e);
